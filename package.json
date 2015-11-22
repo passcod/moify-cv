@@ -1,0 +1,31 @@
+{
+  "name": "moify-cv",
+  "version": "1.0.0",
+  "description": "Client for the Moify.me Computer Vision API",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && snyk test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/passcod/moify-cv.git"
+  },
+  "keywords": [
+    "computer-vision",
+    "face-detection",
+    "moify"
+  ],
+  "author": "Félix Saparelli <me@passcod.name>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/passcod/moify-cv/issues"
+  },
+  "homepage": "https://github.com/passcod/moify-cv",
+  "devDependencies": {
+    "snyk": "^1.1.1",
+    "standard": "^5.3.1"
+  },
+  "dependencies": {
+    "wreck": "^7.0.0"
+  }
+}
