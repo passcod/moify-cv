@@ -52,4 +52,5 @@ Licensed under [MIT].
 [MIT]: http://passcod.mit-license.org
 [moify.me]: https://moify.me
 [cv.moify.me]: https://cv.moify.me
-
+[libccv]: http://libccv.org/
+[SURF-Cascade Detection]: http://libccv.org/doc/doc-scd/
