@@ -23,9 +23,9 @@
   "homepage": "https://github.com/passcod/moify-cv",
   "devDependencies": {
     "snyk": "^1.1.1",
-    "standard": "^5.3.1"
+    "standard": "^9.0.2"
   },
   "dependencies": {
-    "wreck": "^7.0.0"
+    "wreck": "^12.0.0"
   }
 }
