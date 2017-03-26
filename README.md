@@ -1,5 +1,7 @@
 # Moify CV
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/passcod/moify-cv.svg)](https://greenkeeper.io/)
+
 This is the official library for the [moify.me] computer vision (CV)
 service. It is used internally by the moifyCv API.
 
